@@ -52,7 +52,7 @@ button:hover {
 
 .grid {
     display: grid;
-    gap: 0; /* No gap */
+    gap: 4px;
     justify-content: center;
     align-items: center;
     margin-top: 10px;
